@@ -381,3 +381,21 @@ A través de este documento, se busca facilitar la comprensión de los conceptos
 <br>
 
 ---
+
+<br>
+
+# COMANDOS PARA CONFIGURAR SWITCHES
+
+```
+enable
+configure terminal
+hostname [nombre]
+enable secret [contraseña]
+exit
+write memory
+disable
+```
+
+<br>
+
+---
