@@ -1058,5 +1058,34 @@ write memory
 
 ## 8. Capturas de Pantalla
 
-
-
+8.1 Topología General
+![Configuración](img/topo.png)
+8.2 EtherChannel — SW-Core
+![Configuración](img/ether.png)
+8.3 VLANs — SW-Core
+![Configuración](img/vlan.png)
+8.4 Spanning Tree — SW-Tpasarejos
+![Configuración](img\sptp.png)
+8.5 Spanning Tree — SW-TorreControl
+![Configuración](img\spttc.png)
+8.6 Spanning Tree — SW-Tcarga
+![Configuración](img\spttcarga.png)
+8.7 Interfaces Trunk — SW-Core
+![Configuración](img\trunk.png)
+8.8 Asignación de IPs — Dispositivos
+### Area 1
+![Configuración](img\a1.png)
+### Area 2
+![Configuración](img\a2.png)
+### Area 3
+![Configuración](img\a3.png)
+### Area 4
+![Configuración](img\a4.png)
+### Area 5
+![Configuración](img\a5.png)
+### Area 6
+![Configuración](img\a6.png)
+### Area 7
+![Configuración](img\a7.png)
+### Area 8
+![Configuración](img\a8.png)
